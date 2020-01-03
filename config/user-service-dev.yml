@@ -17,12 +17,5 @@ eureka:
     service-url:
       defaultZone: http://eureka1:2001/eureka, http://eureka2:2002/eureka
       
-management:
-  endpoints:
-    web:
-      exposure:
-<<<<<<< HEAD
-        include: refresh     
-=======
-        include: refresh
->>>>>>> branch 'master' of https://github.com/th940719/sp-config
+
+
